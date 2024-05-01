@@ -1,0 +1,4 @@
+git comit -m "message"
+ - saves the changes that you have made to the files in the staging area to the repository. The message describes what were te changes that were made in this commit.
+git status
+ - display the current status of the file/folder.
